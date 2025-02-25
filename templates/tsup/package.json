@@ -1,0 +1,27 @@
+{
+  "name": "tsup",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [""],
+  "bugs": {
+    "url": ""
+  },
+  "author": "beluga – Daniel Baumert",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
