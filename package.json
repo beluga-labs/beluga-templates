@@ -1,0 +1,27 @@
+{
+  "name": "beluga-templates",
+  "version": "0.1.0",
+  "description": "A collection of templates for various applications and packages.",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:beluga-labs/beluga-templates"
+  },
+  "keywords": [
+    "templates",
+    "create",
+    "apps",
+    "stack",
+    "beluga"
+  ],
+  "bugs": {
+    "url": "git@github.com:beluga-labs/beluga-templates/issues"
+  },
+  "author": "beluga – Daniel Baumert",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.0.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^8.2.4"
+  }
+}
