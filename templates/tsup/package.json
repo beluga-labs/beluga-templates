@@ -15,7 +15,7 @@
   "bugs": {
     "url": ""
   },
-  "author": "beluga – Daniel Baumert",
+  "author": "beluga labs",
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.3.6",
