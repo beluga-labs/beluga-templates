@@ -1,6 +1,6 @@
 {
   "name": "beluga-templates",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A collection of templates for various applications and packages.",
   "repository": {
     "type": "git",
@@ -20,8 +20,11 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
-    "commander": "^9.0.0",
-    "figlet": "^1.8.0",
-    "inquirer": "^8.2.4"
+    "commander": "^9.5.0",
+    "figlet": "^1.8.1",
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
